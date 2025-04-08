@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relica", "Relica\Relica\Relica.csproj", "{147F1895-82A1-48C1-8111-74D0006CF692}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RelicaContent", "Relica\RelicaContent\RelicaContent.contentproj", "{84C1618B-B2E8-47B2-80C7-21A25DA6658D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147F1895-82A1-48C1-8111-74D0006CF692}.Debug|x86.ActiveCfg = Debug|x86
+		{147F1895-82A1-48C1-8111-74D0006CF692}.Debug|x86.Build.0 = Debug|x86
+		{147F1895-82A1-48C1-8111-74D0006CF692}.Release|x86.ActiveCfg = Release|x86
+		{147F1895-82A1-48C1-8111-74D0006CF692}.Release|x86.Build.0 = Release|x86
+		{84C1618B-B2E8-47B2-80C7-21A25DA6658D}.Debug|x86.ActiveCfg = Debug|x86
+		{84C1618B-B2E8-47B2-80C7-21A25DA6658D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22BDA8C-3209-4D3B-AD24-BDAE25313113}
+	EndGlobalSection
+EndGlobal
